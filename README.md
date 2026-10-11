@@ -10,5 +10,5 @@ Certified Data Engineer with expertise in building scalable cloud data platforms
 ---
 
 ### 🌐 Connect with Me:
-* **LinkedIn:** [linkedin.com/in/tanushree-a-3a6812249](https://www.linkedin.com/in/tanushree-a-3a6812249)[cite: 2]
+* **LinkedIn:** [linkedin.com/in/tanushree-a-3a6812249](https://www.linkedin.com/in/tanushree-a-3a6812249)
 * **Email:** tanushreeananda01@gmail.com
